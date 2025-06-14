@@ -1,0 +1,26 @@
+Suite: test
+Codename: test
+Date: Sat, 14 Jun 2025 10:44:23 UTC
+Architectures: amd64 i368
+Components: main
+MD5Sum:
+ 8ae900b606203e1c331e03bf82a60f70 430 main/binary-amd64/Packages
+ abb8182f13cbc7e6a8e453109ad9b066 329 main/binary-amd64/Packages.gz
+ fa6ad5b15236973cdb574ce98aa91f53 50 main/binary-amd64/Release
+ 8ae900b606203e1c331e03bf82a60f70 430 main/binary-i368/Packages
+ abb8182f13cbc7e6a8e453109ad9b066 329 main/binary-i368/Packages.gz
+ e34450fdad82e51c6f1910fe4a99a9ad 49 main/binary-i368/Release
+SHA1:
+ 81fd548c30abfcf182ba923618d44031c77fc5f1 430 main/binary-amd64/Packages
+ 10b0a19a66d103230fc192f68c39a42c77412447 329 main/binary-amd64/Packages.gz
+ 6d731286242c17fe0adb36c47ea000cc8444e6b4 50 main/binary-amd64/Release
+ 81fd548c30abfcf182ba923618d44031c77fc5f1 430 main/binary-i368/Packages
+ 10b0a19a66d103230fc192f68c39a42c77412447 329 main/binary-i368/Packages.gz
+ 42c272aff6187de46f3f9de10984bafea3f39f36 49 main/binary-i368/Release
+SHA256:
+ 023a1b838a5be09983019662b869bfeae520be146c4bc4aec55e9313a37db163 430 main/binary-amd64/Packages
+ 7f3548e055cbd15820adb56c9610786ac6f2a5eb6976e39315cb1a826442fedf 329 main/binary-amd64/Packages.gz
+ fd61a1479303690c1c926cb4096b5777cb6448cf9ca285a1741771b3a5b7a0ed 50 main/binary-amd64/Release
+ 023a1b838a5be09983019662b869bfeae520be146c4bc4aec55e9313a37db163 430 main/binary-i368/Packages
+ 7f3548e055cbd15820adb56c9610786ac6f2a5eb6976e39315cb1a826442fedf 329 main/binary-i368/Packages.gz
+ 1364dd62d5e70d61fecaca64dd6d80ab6f5f45e47a6e9b77743a11e3bb3715a1 49 main/binary-i368/Release
