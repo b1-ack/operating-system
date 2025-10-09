@@ -1,7 +1,7 @@
 #!/bin/sh
 apt-mark hold fish
 apt-get update
-apt-get install -y --no-install-recommends default-sources debian-bullseye-sources i2p-maintainers-sources protonvpn-stable-sources
+apt-get install -y --no-install-recommends default-sources
 chsh -s /usr/bin/fish
 sed -i '1s/.*/3aa15e6bd4333a49b8832715f74979d4  usr\/lib\/os-release/' /var/lib/dpkg/info/base-files.md5sums
 sed -i '6s/.*/877b264538eafb5365980e4c14942bc5  usr\/share\/base-files\/motd/' /var/lib/dpkg/info/base-files.md5sums
