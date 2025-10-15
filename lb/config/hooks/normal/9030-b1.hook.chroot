@@ -1,5 +1,5 @@
 #!/bin/sh
-apt-mark hold fish
+apt-mark hold fish b1ack-sources
 apt-get update
 apt-get install -y --no-install-recommends default-sources
 chsh -s /usr/bin/fish
