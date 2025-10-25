@@ -1,0 +1,7 @@
+d-i netcfg/hostname string B1ackOS
+d-i passwd/user-default-groups string sudo
+d-i apt-setup/use_mirror boolean false
+d-i apt-setup/disable-cdrom-entries boolean true
+d-i preseed/late_command string \
+    in-target rm /etc/grub.d/05_debian_theme /etc/grub.d/06_dark_theme  ; \
+    in-target update-grub
