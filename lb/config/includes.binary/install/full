@@ -1,8 +1,0 @@
-d-i netcfg/hostname string B1ackOS
-d-i passwd/user-default-groups string sudo
-d-i apt-setup/use_mirror boolean false
-d-i apt-setup/disable-cdrom-entries boolean true
-d-i preseed/late_command string \
-    in-target dpkg --add-architecture i386  ; \
-    in-target chmod -x /etc/grub.d/05_debian_theme  ; \
-    in-target update-grub
