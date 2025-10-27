@@ -4,4 +4,5 @@ d-i apt-setup/use_mirror boolean false
 d-i apt-setup/disable-cdrom-entries boolean true
 d-i preseed/late_command string \
     in-target rm /etc/grub.d/05_debian_theme /etc/grub.d/06_dark_theme  ; \
+    in-target rm /etc/initramfs/post-update.d/z50-raspi-firmware || true  ; \
     in-target update-grub
