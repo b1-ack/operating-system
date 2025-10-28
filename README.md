@@ -1,4 +1,4 @@
-# B1ackOS - International Operating System GNU/Linux
+# B1ackOS GNU/Linux
 
 ![B1ackOS Logo](https://os.b1ack.ru/favicon.svg)
 
