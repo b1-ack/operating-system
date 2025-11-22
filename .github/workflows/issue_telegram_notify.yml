@@ -1,0 +1,24 @@
+name: Issue Notification to Telegram
+
+on:
+  issues:
+    types: [opened] # Запускать workflow, когда открыт новый вопрос
+
+jobs:
+  notify_telegram:
+    # Убедитесь, что этот job запускается на событие issue, независимо от того, кто его создал.
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Telegram Notification
+        # Используем популярное стороннее Action для отправки сообщений
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_CHAT_ID }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+            🎉 Новый вопрос открыт в репозитории ${{ github.repository }}!
+            
+            Название: *${{ github.event.issue.title }}*
+            Открыл: ${{ github.event.issue.user.login }}
+            Ссылка: [Открыть вопрос](${{ github.event.issue.html_url }})
+          parse_mode: markdown
