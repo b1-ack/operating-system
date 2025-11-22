@@ -13,7 +13,7 @@ jobs:
         env:
           PAYLOAD: |
             {
-              "chat_id": "${{ secrets.TELEGRAM_TO_BOT_ISSUES }}",
+              "chat_id": "@B1ackOS",
               "message_thread_id": 10,
               "text": "💡 Новый Issue открыт!\n\nРепозиторий: ${{ github.repository }}\nНазвание Issue: ${{ github.event.issue.title }}\nСодержимое: ${{ github.event.issue.body }}\nСсылка: ${{ github.event.issue.html_url }}",
               "parse_mode": "Markdown"
