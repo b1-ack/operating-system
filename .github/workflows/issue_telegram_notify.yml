@@ -6,20 +6,20 @@ on:
 
 jobs:
   notify:
-    name: Send Telegram Notification
+    name: Send Telegram Notification to Topic 10
     runs-on: ubuntu-latest
     steps:
-      - name: Send message to Telegram Topic 10
-        uses: appleboy/telegram-action@master
-        with:
-          to: ${{ secrets.TELEGRAM_TO_BOT_ISSUES }}
-          token: ${{ secrets.TELEGRAM_TOKEN_BOT_ISSUES }}
-          thread_id: 10
-          message: |
-            💡 Новый Issue открыт!
-            
-            Репозиторий: ${{ github.repository }}
-            Название Issue: ${{ github.event.issue.title }}
-            Автор: ${{ github.event.issue.user.login }}
-            Ссылка: ${{ github.event.issue.html_url }}
-          parse_mode: markdown
+      - name: Send message to Telegram Topic 10 via curl
+        env:
+          PAYLOAD: |
+            {
+              "chat_id": "${{ secrets.TELEGRAM_TO_BOT_ISSUES }}",
+              "message_thread_id": 10,
+              "text": "💡 Новый Issue открыт!\n\nРепозиторий: ${{ github.repository }}\nНазвание Issue: ${{ github.event.issue.title }}\nСодержимое: ${{ github.event.issue.body }}\nСсылка: ${{ github.event.issue.html_url }}",
+              "parse_mode": "Markdown"
+            }
+        run: |
+          curl -s -X POST \
+          https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN_BOT_ISSUES }}/sendMessage \
+          -H 'Content-Type: application/json' \
+          -d "$PAYLOAD"
