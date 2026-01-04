@@ -1,6 +1,6 @@
 # B1ackOS GNU/Linux
 
-![B1ackOS Logo](https://os.b1ack.ru/os.svg)
+![B1ackOS Logo](https://os.b1ack.net/fingerprint.svg)
 
 B1ackOS is an **international operating system** based on **Debian**, designed to simplify package installation and ensure a high degree of privacy. It was created for users who seek not only simplicity but also security in their digital interactions.
 
@@ -13,10 +13,10 @@ B1ackOS is an **international operating system** based on **Debian**, designed t
 ## Availability
 
 The ready-to-use B1ackOS system can be found on our website:
-- [B1ackOS Official Website](https://os.b1ack.ru)
+- [B1ackOS Official Website](https://os.b1ack.net)
 
 On GitHub, only the files for building the B1ackOS system are presented. Packages and updates are available in our repository:
-- [B1ackOS Repository](https://os.b1ack.ru/deb)
+- [B1ackOS Repository](https://os.b1ack.net/deb)
 
 ## Installation
 
