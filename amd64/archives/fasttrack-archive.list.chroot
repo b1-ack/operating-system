@@ -1,0 +1,4 @@
+deb http://fasttrack.debian.net/debian-fasttrack/ bookworm-fasttrack main contrib
+#deb-src http://fasttrack.debian.net/debian-fasttrack/ bookworm-fasttrack main contrib
+deb http://fasttrack.debian.net/debian-fasttrack/ bookworm-backports-staging main contrib
+#deb-src http://fasttrack.debian.net/debian-fasttrack/ bookworm-backports-staging main contrib
