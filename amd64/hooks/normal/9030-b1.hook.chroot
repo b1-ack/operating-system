@@ -1,5 +1,5 @@
 #!/bin/sh
-apt-mark hold fish b1ack-sources
+apt-mark hold fish b1ack-sources base-files
 chsh -s /usr/bin/fish
 sed -i '1s/.*/3aa15e6bd4333a49b8832715f74979d4  usr\/lib\/os-release/' /var/lib/dpkg/info/base-files.md5sums
 sed -i '6s/.*/877b264538eafb5365980e4c14942bc5  usr\/share\/base-files\/motd/' /var/lib/dpkg/info/base-files.md5sums
