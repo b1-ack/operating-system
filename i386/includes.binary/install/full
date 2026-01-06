@@ -1,4 +1,6 @@
 d-i netcfg/hostname string B1ackOS
+d-i netcfg/disable_dhcp boolean false
+d-i netcfg/confirm_static boolean true
 d-i passwd/user-default-groups string sudo
 d-i apt-setup/use_mirror boolean false
 d-i apt-setup/disable-cdrom-entries boolean true
