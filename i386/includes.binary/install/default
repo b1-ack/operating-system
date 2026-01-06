@@ -1,5 +1,7 @@
 d-i netcfg/hostname string B1ackOS
 d-i netcfg/get_domain string
+d-i netcfg/disable_dhcp boolean false
+d-i netcfg/confirm_static boolean true
 d-i passwd/root-password password
 d-i passwd/root-password-again password
 d-i passwd/user-default-groups string sudo
