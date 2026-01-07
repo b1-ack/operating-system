@@ -38,7 +38,7 @@ B1ackOS is distributed under the **GNU license**. See the [LICENSE](LICENSE) fil
 
 ## Contact
 
-For questions or suggestions, please contact us via email: [b1ack@duck.com](mailto:b1ack@duck.com) or through [GitHub Issues](https://github.com/your-repo/issues).
+For questions or suggestions, please contact us via email: [b1ack@duck.com](mailto:support@b1ack.net) or through [GitHub Issues](https://github.com/your-repo/issues).
 
 ---
 Developed with care for your security and privacy. Thank you for choosing B1ackOS!
