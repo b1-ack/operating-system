@@ -4,5 +4,7 @@ chsh -s /usr/bin/fish
 sed -i '1s/.*/3aa15e6bd4333a49b8832715f74979d4  usr\/lib\/os-release/' /var/lib/dpkg/info/base-files.md5sums
 sed -i '6s/.*/877b264538eafb5365980e4c14942bc5  usr\/share\/base-files\/motd/' /var/lib/dpkg/info/base-files.md5sums
 sed -i '1d' /var/lib/dpkg/info/fish-common.md5sums
+sed -i -e '1s/^/#/' -e '4s/^/#/' -e '7s/^/#/' /etc/apt/sources.list.d/debian-bookworm.list
+dpkg --add-architecture i386
 dpkg --purge raspi-firmware
 rm /etc/update-motd.d/10-uname /usr/share/applications/fish.desktop /etc/apt/trusted.gpg.d/debian-archive-trixie-automatic.asc /etc/apt/trusted.gpg.d/debian-archive-trixie-security-automatic.asc /etc/apt/trusted.gpg.d/debian-archive-trixie-stable.asc /etc/apt/trusted.gpg.d/debian-archive-bullseye-automatic.asc /etc/apt/trusted.gpg.d/debian-archive-bullseye-security-automatic.asc /etc/apt/trusted.gpg.d/debian-archive-bullseye-stable.asc /etc/apt/trusted.gpg.d/b1ack.key.chroot.asc /etc/apt/trusted.gpg.d/fasttrack-archive-keyring.key.chroot.gpg
