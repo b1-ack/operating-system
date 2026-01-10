@@ -1,6 +1,6 @@
 # B1ackOS GNU/Linux
 
-![B1ackOS Logo](https://os.b1ack.net/favicon.svg)
+![B1ackOS Logo](https://b1ack.net/favicon.svg)
 
 B1ackOS is an **international operating system** based on **Debian**, designed to simplify package installation and ensure a high degree of privacy. It was created for users who seek not only simplicity but also security in their digital interactions.
 
