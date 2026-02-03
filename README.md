@@ -14,6 +14,7 @@ B1ackOS is an **international operating system** based on **Debian**, designed t
 
 The ready-to-use B1ackOS system can be found on our website:
 - [B1ackOS Official Website](https://os.b1ack.net)
+- [B1ackOS Wiki Documentation](https://wiki.b1ack.net)
 
 On GitHub, only the files for building the B1ackOS system are presented. Packages and updates are available in our repository:
 - [B1ackOS Repository](https://os.b1ack.net/deb)
