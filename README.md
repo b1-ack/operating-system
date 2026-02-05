@@ -19,11 +19,11 @@ The ready-to-use B1ackOS system can be found on our website:
 On GitHub, only the files for building the B1ackOS system are presented. Packages and updates are available in our repository:
 - [B1ackOS Repository](https://os.b1ack.net/deb)
 
-## Installation
+## Build
 
 B1ackOS is built using **live-build**. The files for creating the build can be found on this GitHub page. Please note that for correct building of the **i386** version, it should be layered on top of **amd64**.
 
-### How to Get Started
+### Installation
 
 1. Download the necessary files for building.
 2. Follow the instructions on the website for installing and configuring your system.
