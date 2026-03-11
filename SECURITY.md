@@ -6,3 +6,8 @@ We've fully opened up the ISO image build process with all the necessary configu
 **Repository**:
 
 The system uses official [Debian](https://deb.debian.org/debian) repositories with additional settings for availability, freshness, and compatibility. For similar purposes, we also have our [own](https://os.b1ack.net/deb) open, moderated repository, which prioritizes maintainers from official software developers or those close to them.
+
+
+
+![Telegram Members](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2F%3Fcontainer%3Dproject_name)
+
