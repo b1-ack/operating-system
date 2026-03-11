@@ -37,8 +37,6 @@ We always welcome help and contributions from the community. To suggest new feat
 
 B1ackOS is distributed under the **GNU license**. See the [LICENSE](LICENSE) file for more details.
 
-Our activities are completely transparent and are logged in the our [Telegram forum](https://B1ackOS.t.me/) and [Wiki](https://wiki.b1ack.net).
-
 ## Contact
 
 For questions or suggestions, please contact us via email: [support@b1ack.net](mailto:support@b1ack.net) or through [GitHub Issues](https://github.com/b1-ack/operating-system/issues).
