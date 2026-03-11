@@ -37,7 +37,7 @@ We always welcome help and contributions from the community. To suggest new feat
 
 B1ackOS is distributed under the **GNU license**. See the [LICENSE](LICENSE) file for more details.
 
-Our activities are completely transparent and are logged in the Telegram forum and Wiki.
+Our activities are completely transparent and are logged in the our [Telegram forum](https://B1ackOS.t.me/) and [Wiki](https://wiki.b1ack.net).
 
 ## Contact
 
