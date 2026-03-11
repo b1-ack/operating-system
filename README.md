@@ -36,6 +36,7 @@ We always welcome help and contributions from the community. To suggest new feat
 ## License
 
 B1ackOS is distributed under the **GNU license**. See the [LICENSE](LICENSE) file for more details.
+
 Our activities are completely transparent and are logged in the Telegram forum and Wiki.
 
 ## Contact
