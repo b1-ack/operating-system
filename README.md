@@ -41,6 +41,7 @@ B1ackOS is distributed under the **GNU license**. See the [LICENSE](LICENSE) fil
 
 For questions or suggestions, please contact us via email: [support@b1ack.net](mailto:support@b1ack.net) or through [GitHub Issues](https://github.com/b1-ack/operating-system/issues).
 
+Our activities are completely transparent and are logged in the Telegram forum and Wiki.
 To connect with the community or receive custom ISO with pre-installed software, visit the [B1ackOS Telegram forum](https://B1ackOS.t.me/).
 
 ---
