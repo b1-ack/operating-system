@@ -9,5 +9,4 @@ The system uses official [Debian](https://deb.debian.org/debian) repositories wi
 
 
 
-![Telegram Members](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2F%3Fcontainer%3Dproject_name)
-
+[![Telegram Members](https://img.shields.io/endpoint?color=27A0D9&style=for-the-badge&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2F%3Fcontainer%3DB1ackOS)](https://t.me/B1ackOS)
