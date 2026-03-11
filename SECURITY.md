@@ -9,4 +9,4 @@ The system uses official [Debian](https://deb.debian.org/debian) repositories wi
 
 
 
-![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@B1ackOS)
+Community: ![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@B1ackOS)
