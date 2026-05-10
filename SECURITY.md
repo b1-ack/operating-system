@@ -11,4 +11,4 @@ The system uses official [Debian](https://deb.debian.org/debian) repositories wi
 
 
 [![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@B1ackOS)](https://t.me/B1ackOS)
-[![Base](https://img.shields.io/badge/Base-Debian%2012-%23A40026?logo=debian)](https://www.debian.org/releases/bookworm/)
+[![Base](https://img.shields.io/badge/Base-Debian%20Sid-%23A40026?logo=debian)](https://wiki.debian.org/DebianUnstable/)
