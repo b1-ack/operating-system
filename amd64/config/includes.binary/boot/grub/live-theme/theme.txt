@@ -1,0 +1,20 @@
+### Advanced options entree
+menuentry 'Full install' --hotkey=f {
+	linux	/install/vmlinuz vga=788 theme=dark quiet file=/cdrom/install/full --- quiet
+	initrd	/install/initrd.gz
+}
+
+menuentry 'Expert install' --hotkey=x {
+	linux	/install/vmlinuz priority=low vga=788 theme=dark file=/cdrom/install/full quiet
+	initrd	/install/initrd.gz
+}
+
+menuentry 'Automated install' --hotkey=a {
+	linux	/install/vmlinuz auto=true priority=critical vga=788 theme=dark quiet file=/cdrom/install/full --- quiet
+	initrd	/install/initrd.gz
+}
+
+menuentry 'Rescue mode' --hotkey=r {
+	linux	/install/vmlinuz rescue/enable=true vga=788 theme=dark quiet file=/cdrom/install/full --- quiet
+	initrd	/install/initrd.gz
+}
