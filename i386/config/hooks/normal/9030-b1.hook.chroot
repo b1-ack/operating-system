@@ -1,3 +1,0 @@
-#!/bin/sh
-dpkg --purge raspi-firmware
-rm /etc/update-motd.d/10-uname /etc/apt/trusted.gpg.d/b1ack.key.chroot.asc
