@@ -9,6 +9,10 @@ B1ackOS is an **international operating system** based on **Debian**, designed t
 - **Simplicity in Package Installation**: B1ackOS offers an improved approach to installing and managing software.
 - **Focus on Privacy**: All components of the system are designed with personal information protection in mind.
 - **Penetration Testing Utilities**: Includes powerful tools for security testing to help assess your system's security.
+- **Rolling**: The latest versions of the software, as long as they don't break anything.
+- **Lightweight**: The system comes with a minimum by default, which allows the user to assemble the environment for himself and get maximum performance.
+- **Compatibility**: The system has the best drivers for working with hardware.
+- **Versatility**: Everything from surfing the web and gaming to medicine and astronomy is available in the repositories.
 
 ## Availability
 
