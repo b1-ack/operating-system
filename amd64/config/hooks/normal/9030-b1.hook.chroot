@@ -1,4 +1,4 @@
 #!/bin/sh
 dpkg --add-architecture i386
-dpkg --purge raspi-firmware
+dpkg --purge raspi-firmware vim-tiny
 rm /etc/update-motd.d/10-uname
