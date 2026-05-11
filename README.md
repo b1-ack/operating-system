@@ -6,6 +6,7 @@ B1ackOS is an **international operating system** based on **Debian**, designed t
 
 ## Key Features
 
+- **Live**: The system can be used without installation or during installation.
 - **Simplicity in Package Installation**: B1ackOS offers an improved approach to installing and managing software.
 - **Focus on Privacy**: All components of the system are designed with personal information protection in mind.
 - **Penetration Testing Utilities**: Includes powerful tools for security testing to help assess your system's security.
