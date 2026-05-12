@@ -16,4 +16,4 @@ Live-Build Version: 20250814
 
 **Verifed emails**:
 
-support@b1ack.net  b1ack@duck.com  b1ack.support@proton.me
+support@b1ack.net      b1ack@duck.com      b1ack.support@proton.me
