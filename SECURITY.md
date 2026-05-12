@@ -11,11 +11,11 @@ The system uses official [Debian](https://deb.debian.org/debian) repositories wi
 
 Live-Build Version: 20250814
 
-[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@B1ackOS)](https://t.me/B1ackOS)
-[![Base](https://img.shields.io/badge/Base-Debian%20Sid-%23A40026?logo=debian)](https://wiki.debian.org/DebianUnstable/)
-
 **Verifed emails**:
 
 support@b1ack.net
 b1ack@duck.com
 b1ack.support@proton.me
+
+[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@B1ackOS)](https://t.me/B1ackOS)
+[![Base](https://img.shields.io/badge/Base-Debian%20Sid-%23A40026?logo=debian)](https://wiki.debian.org/DebianUnstable/)
