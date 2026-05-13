@@ -2,3 +2,12 @@
 dpkg --purge raspi-firmware vim-tiny vim-common
 rm /etc/update-motd.d/10-uname /etc/os-release
 ln -s /usr/lib/os-release /etc/os-release
+
+tee /etc/apt/sources.list.d/fasttrack.list > /dev/null <<'EOF'
+deb http://fasttrack.debian.net/debian-fasttrack bookworm-fasttrack main contrib non-free
+#deb-src http://fasttrack.debian.net/debian-fasttrack bookworm-fasttrack main contrib non-free
+
+deb http://deb.debian.org/debian bookworm-backports main contrib non-free non-free-firmware
+#deb-src http://deb.debian.org/debian bookworm-backports main contrib non-free non-free-firmware
+EOF
+apt update && apt upgrade -y && apt autoremove -y
