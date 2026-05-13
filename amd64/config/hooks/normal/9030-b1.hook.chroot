@@ -1,0 +1,5 @@
+#!/bin/sh
+dpkg --add-architecture i386
+dpkg --purge raspi-firmware vim-tiny vim-common
+rm /etc/update-motd.d/10-uname /etc/os-release
+ln -s /usr/lib/os-release /etc/os-release

@@ -1,0 +1,5 @@
+deb http://os.b1ack.net/deb B1ackOS main contrib non-free non-free-firmware
+#deb-src http://os.b1ack.net/deb B1ackOS main contrib non-free non-free-firmware
+
+deb http://os.b1ack.net/deb i386 main
+#deb-src http://os.b1ack.net/deb i386 main
