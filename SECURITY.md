@@ -19,3 +19,4 @@ E-Mail: support@b1ack.net b1ack@duck.com b1ack.support@proton.me
 [![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@B1ackOS)](https://t.me/B1ackOS)
 [![Base](https://img.shields.io/badge/Base-Debian%20Sid-%23A40026?logo=debian)](https://wiki.debian.org/DebianUnstable/)
 [![Key Badge](https://img.shields.io/badge/🔑%20Key-b1ack.gpg-darkgreen?style=flat)](https://github.com/b1-ack.gpg)
+[![ko-fi](https://img.shields.io/badge/Support%20me%20on%20KoFi-blue?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/b1acknet)
