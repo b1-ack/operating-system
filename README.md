@@ -11,9 +11,11 @@ B1ackOS is an **international operating system** based on **Debian**, designed t
 - **Focus on Privacy**: All components of the system are designed with personal information protection in mind.
 - **Penetration Testing Utilities**: Includes powerful tools for security testing to help assess your system's security.
 - **Rolling**: The latest versions of the software, as long as they don't break anything.
+- **Stability**: Even though the system is based on the Debian branch called Unstable, the system is more stable than the same, Ubuntu, Arch and Fedora, due to the responsible approach of the developers, both on the part of Debian and B1ack.
 - **Lightweight**: The system comes with a minimum by default, which allows the user to assemble the environment for himself and get maximum performance.
 - **Compatibility**: The system has the best drivers for working with hardware.
 - **Versatility**: Everything from surfing the web and gaming to medicine and astronomy is available in the repositories.
+- **Simplicity**: Although the standard assembly is minimal, allowing the user to assemble the environment himself, a build with pre-installed and pre-configured Cinammon is available on the site, which is able to replace the Windows user, due to the usual features.
 
 ## Availability
 
