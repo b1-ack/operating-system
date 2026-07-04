@@ -28,7 +28,7 @@ On GitHub, only the files for building the B1ackOS system are presented. Package
 
 ## Build
 
-B1ackOS is built using **live-build**. The files for creating the build can be found on this GitHub page. Please note that for correct building of the **i386** version, it should be layered on top of **amd64**.
+B1ackOS is built using **live-build**. The files for creating the build can be found on this GitHub page.
 
 ### Installation
 
