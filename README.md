@@ -43,3 +43,4 @@ To connect with the community or receive custom ISO with pre-installed software,
 ---
 Developed with care for your security and privacy. Thank you for choosing B1ackOS!
 
+[[Nuances about builds and repository](https://github.com/b1-ack/operating-system/blob/main/SECURITY.md)]
