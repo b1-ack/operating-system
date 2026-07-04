@@ -26,16 +26,6 @@ The ready-to-use B1ackOS system can be found on our website:
 On GitHub, only the files for building the B1ackOS system are presented. Packages and updates are available in our repository:
 - [B1ackOS Repository](https://os.b1ack.net/deb)
 
-## Build
-
-B1ackOS is built using **live-build**. The files for creating the build can be found on this GitHub page.
-
-### Installation
-
-1. Download the necessary files for building.
-2. Follow the instructions on the website for installing and configuring your system.
-3. Use the penetration testing utilities to enhance security.
-
 ## Contribution
 
 We always welcome help and contributions from the community. To suggest new features or report bugs, please create *issues* or *pull requests*.
