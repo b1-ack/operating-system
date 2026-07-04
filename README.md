@@ -32,6 +32,7 @@ We always welcome help and contributions from the community. To suggest new feat
 
 ## Openness
 We try to keep our actions as transparent as possible while maintaining privacy.
+
 [[Nuances about builds and repository](https://github.com/b1-ack/operating-system/blob/main/SECURITY.md)]
 
 ## License
