@@ -11,3 +11,6 @@ deb http://deb.debian.org/debian bookworm-backports main contrib non-free non-fr
 #deb-src http://deb.debian.org/debian bookworm-backports main contrib non-free non-free-firmware
 EOF
 apt update && apt upgrade -y && apt autoremove -y
+apt clean
+apt autoclean
+rm /var/lib/apt/lists/*
