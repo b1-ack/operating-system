@@ -2,6 +2,3 @@
 dpkg --purge vim-tiny vim-common
 rm /etc/update-motd.d/10-uname /etc/os-release
 ln -s /usr/lib/os-release /etc/os-release
-apt clean
-apt autoclean
-rm /var/lib/apt/lists/* || true
