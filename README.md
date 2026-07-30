@@ -30,7 +30,7 @@ B1ackOS is an **international operating system** based on **Debian**, designed t
 | **Live** | The system can be used without installation or during installation. |
 | **Simplicity in Package Installation** | B1ackOS offers an improved approach to installing and managing software. |
 | **Focus on Privacy** | All components of the system are designed with personal information protection in mind. |
-| **Penetration Testing Utilities** | Includes powerful tools for security testing to help assess your system's security. |
+| **Application Availability** | From home and office use to work, science, programming, penetration testing, and multimedia — the repositories cover everything a user might need. |
 | **Rolling** | The latest versions of the software, as long as they don't break anything. |
 | **Stability** | Even though the system is based on the Debian branch called Unstable, the system is more stable than the same, Ubuntu, Arch and Fedora, due to the responsible approach of the developers, both on the part of Debian and B1ack. |
 | **Lightweight** | The system comes with a minimum by default, which allows the user to assemble the environment for himself and get maximum performance. |
