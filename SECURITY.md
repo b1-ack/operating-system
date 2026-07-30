@@ -13,6 +13,7 @@ Live-Build Version: 20250814
 
 **Verification**:
 
-E-Mail: support@b1ack.net b1ack@duck.com b1ack.support@proton.me
-
+[![Email](https://img.shields.io/badge/📧%20Email-support@b1ack.net-black?style=flat)](mailto:support@b1ack.net)
+[![Email](https://img.shields.io/badge/📧%20Email-b1ack@duck.com-orange?style=flat)](mailto:b1ack@duck.com)
+[![Email](https://img.shields.io/badge/📧%20Email-b1ack.support@proton.me-4B0082?style=flat)](mailto:b1ack.support@proton.me)
 [![Key Badge](https://img.shields.io/badge/🔑%20Key-b1ack.gpg-darkgreen?style=flat)](https://github.com/b1-ack.gpg)
