@@ -14,9 +14,9 @@ Live-Build Version: 20250814
 
 **Verification**:
 
+[![Base](https://img.shields.io/badge/Base-Debian%20Sid-%23A40026?logo=debian)](https://wiki.debian.org/DebianUnstable/)
+[![Key Badge](https://img.shields.io/badge/🔑%20Key-b1ack.gpg-darkgreen?style=flat)](https://github.com/b1-ack.gpg)
+
 [![Email](https://img.shields.io/badge/📧%20Email-support@b1ack.net-black?style=flat)](mailto:support@b1ack.net)
 [![Email](https://img.shields.io/badge/📧%20Email-b1ack@duck.com-orange?style=flat)](mailto:b1ack@duck.com)
 [![Email](https://img.shields.io/badge/📧%20Email-b1ack.support@proton.me-4B0082?style=flat)](mailto:b1ack.support@proton.me)
-
-[![Base](https://img.shields.io/badge/Base-Debian%20Sid-%23A40026?logo=debian)](https://wiki.debian.org/DebianUnstable/)
-[![Key Badge](https://img.shields.io/badge/🔑%20Key-b1ack.gpg-darkgreen?style=flat)](https://github.com/b1-ack.gpg)
