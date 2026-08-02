@@ -8,7 +8,6 @@
 
 [![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@B1ackOS)](https://t.me/B1ackOS)
 [![Discord](https://img.shields.io/discord/1513836770070888618?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/NxZEbtEhAp)
-[![Base](https://img.shields.io/badge/Base-Debian%20Sid-%23A40026?logo=debian)](https://wiki.debian.org/DebianUnstable/)
 
 [![Website](https://img.shields.io/badge/os.b1ack.net-black?style=flat-square)](https://os.b1ack.net)
 [![Wiki](https://img.shields.io/badge/wiki.b1ack.net-black?style=flat-square)](https://wiki.b1ack.net)
