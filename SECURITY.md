@@ -1,3 +1,5 @@
+[**EN**] [[RU](https://github.com/b1-ack/operating-system/blob/main/SECURITY_ru.md)]
+
 **ISO image builds**:
 
 We certify our images using SHA256 and take them from [GitHub]([https://os.b1ack.net/deb](https://github.com/b1-ack/operating-system)), even on the official website.
