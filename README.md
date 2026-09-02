@@ -1,3 +1,5 @@
+[**EN**] [[RU](https://github.com/b1-ack/operating-system/blob/main/README_ru.md)]
+
 <div align="center">
 
 <img src="https://b1ack.net/img/b1ack.svg" alt="B1ackOS Logo" width="140"/>
